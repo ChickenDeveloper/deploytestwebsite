@@ -1,0 +1,17 @@
+.main {
+  color: #999f00;
+  font-family: "Baloo Bhaina";
+  text-align: center;
+}
+
+ul {
+  padding-left: 0;
+}
+
+ul li {
+  list-style-position: inside;
+}
+
+* {
+    background-color: #66ffff;
+}
